@@ -39,3 +39,7 @@
 .email-purpose{grid-template-columns:130px 1fr}
 @media(max-width:980px){.offer-grid{grid-template-columns:repeat(2,1fr)}.materials-section{grid-template-columns:1fr}.deck-stack{min-height:430px}}
 @media(max-width:640px){.offer-grid{grid-template-columns:1fr}.materials-section{padding-top:82px;padding-bottom:60px}.deck-stack{min-height:310px}.email-purpose{grid-template-columns:105px 1fr}}
+
+/* Official horizontal Yango Ads wordmark */
+.yango-logo{display:block;width:170px;line-height:0}.yango-logo img{display:block;width:100%;height:auto;max-width:none}.footer-logo{filter:invert(1);opacity:.9}
+@media(max-width:640px){.yango-logo,footer .yango-logo{width:145px}.footer-logo{transform:none}}
