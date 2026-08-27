@@ -30,6 +30,9 @@
 @media(max-width:640px){.topbar{height:78px;padding:0 20px}.yango-logo-stack{transform:scale(.76);transform-origin:left center}.hero{padding-top:60px}.hero h1{font-size:47px;letter-spacing:-.06em}.hero-statement{grid-template-columns:1fr;gap:12px;padding:22px;border-radius:20px}.hero-statement p{font-size:17px}.offer-card h3{min-height:0;margin-top:55px}.script-details{border-radius:22px}.script-details summary{padding:26px 22px}.script-details h3{font-size:38px;margin-top:52px}.script-meta{align-items:flex-end}.script-meta>span{max-width:55%}.sequence-gallery,.script-details:nth-child(2) .sequence-gallery{grid-template-columns:1fr;padding:0 22px 28px}.sequence-shot{min-height:230px}.materials-section{grid-template-columns:1fr}.measurement-section{padding:82px 20px 40px}.direct-brand{margin-bottom:52px;padding-bottom:30px}.direct-brand img{width:215px}.direct-intro h2{font-size:47px}.footer-logo{transform:none}footer .yango-logo-stack{width:108px}}
 
 /* Recommendation-led editorial pass */
+.yango-logo-stack{width:128px;height:79px;gap:3px;overflow:visible}.logo-crop{height:38px}.logo-crop img{width:212px}.logo-crop-yango{width:129px}.logo-crop-ads{width:82px}.logo-crop-ads img{left:-130px}
+.script-summary{padding:32px 38px}.script-summary>p{font-size:16px;line-height:1.5;max-width:720px}.linkedin-phone{max-width:540px}.message p{font-size:11px;line-height:1.5}
+@media(max-width:640px){.script-summary{padding:26px 22px}.yango-logo-stack,footer .yango-logo-stack{width:128px}.footer-logo{transform:scale(.76);transform-origin:left center}}
 .offer-grid{grid-template-columns:repeat(3,1fr)}
 .proof-section{padding-top:90px}.proof-title>p{max-width:480px;font-size:16px;line-height:1.5;margin:30px 0 0}
 .materials-section{grid-template-columns:1fr 1fr;padding-top:92px;padding-bottom:100px;gap:7vw}.deck-stack{min-height:390px}
